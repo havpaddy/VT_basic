@@ -1,3 +1,5 @@
 ﻿files:
   - source: vaxtplankton_mall_20180405.xlsx
     sheet: 5
+  skip_checks:
+    - blank-lines
