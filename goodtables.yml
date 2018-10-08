@@ -1,7 +1,6 @@
 ﻿files:
   - source: vaxtplankton_mall_20180405.xlsx
+    skip_rows: 1
     sheet: 5
 skip_checks:
     - blank-lines
-skip_rows: 
-  - 1
